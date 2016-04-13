@@ -1,0 +1,2 @@
+# CustomDialog
+配置Dialog的各种参数以适应项目需求，和selector与shape的同时使用
